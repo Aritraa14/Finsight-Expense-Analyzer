@@ -11,6 +11,5 @@ FinSight is a Python-based tool that transforms raw expense data into visual fin
 2. Run the script: `python main.py`
 3. View your generated report in `expense_report.png`.
 
-## 📈 Sample Visualization
-*(Once you run the code, you can upload your chart here!)*
+
 
